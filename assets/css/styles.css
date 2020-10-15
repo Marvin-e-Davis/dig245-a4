@@ -33,7 +33,8 @@
 }
 
 .overview-header{
-  padding-top: 5%;
+  padding-top: 2.5%;
+  padding-bottom: 2.5%;
   margin-left: 15%;
 }
 
@@ -41,4 +42,5 @@
   margin-top: 1%;
   margin-right: 60%;
   margin-left: 10%;
+  margin-bottom: 5%;
 }
