@@ -5,5 +5,9 @@
 
 .background{
   background-color: #afd3fc;
-  padding: 1366px, 3500px;
+}
+
+.p{
+  height: 1000px
+  weight: 1000px
 }
