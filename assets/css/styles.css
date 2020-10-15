@@ -19,8 +19,13 @@
   padding-bottom: 50px;
 }
 
-.pink-background{
+.pink-background-main{
   background-color: #ffc8c8;
   padding-top: 20px;
   padding-bottom: 20px;
+}
+
+.pink-background-overview{
+  background-color: #ffc8c8;
+  margin: 50px;
 }
