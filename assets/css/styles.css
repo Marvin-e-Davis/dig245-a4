@@ -1,6 +1,6 @@
 /* css */
 .container{
-  margin-top: 100px
+  margin-top: 15%;
 }
 
 .centered-text{
@@ -21,4 +21,8 @@
 
 .pink-background{
   background-color: #ffc8c8;
+}
+
+.main-title{
+  padding-top: 20%;
 }
