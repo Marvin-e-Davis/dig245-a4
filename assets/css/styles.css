@@ -15,32 +15,19 @@
 .white-background-main{
   background-color: #ffffff;
   border: 1px solid black;
-  padding-top: 20%;
-  padding-bottom: 3%;
 }
 
 .pink-background-main{
   background-color: #ffc8c8;
-  padding-top: 1%;
-  padding-bottom: 1%;
 }
 
 .pink-background-overview{
   background-color: #ffc8c8;
-  margin-left: 10%;
-  margin-right: 10%;
-  margin-top: 5%;
 }
 
 .overview-header{
-  padding-top: 2.5%;
-  padding-bottom: 2.5%;
-  margin-left: 15%;
 }
 
 .overview-text{
   position: relative;
-  margin-top: 1%;
-  left: 5%;
-  padding-bottom: 10%;
 }
