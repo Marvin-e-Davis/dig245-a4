@@ -3,7 +3,7 @@
   margin-top: 100px
 }
 
-.header{
+.centered-text{
   text-align: center;
 }
 
@@ -12,22 +12,11 @@
   padding-bottom: 200%;
 }
 
-.white-background-main{
+.white-background{
   background-color: #ffffff;
   border: 1px solid black;
 }
 
-.pink-background-main{
+.pink-background{
   background-color: #ffc8c8;
-}
-
-.pink-background-overview{
-  background-color: #ffc8c8;
-}
-
-.overview-header{
-}
-
-.overview-text{
-  position: relative;
 }
