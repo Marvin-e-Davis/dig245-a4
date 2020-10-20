@@ -26,7 +26,13 @@
   padding-top: 20%;
 }
 
-.header-font{
+.main-header-font{
+  font-family: Impact sans-serif;
+  font-size: 200%;
+  margin-bottom: 5%;
+}
+
+.sub-header-font{
   font-family: Impact sans-serif;
   font-size: 200%;
   margin-bottom: 5%;
