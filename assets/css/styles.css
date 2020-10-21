@@ -67,7 +67,7 @@
   margin-left: 5%;
 }
 
-@media screen and (min-width: 600px){
+@media screen and (max-width: 600px){
   .regular-text{
     font-size: 3vmax;
   }
