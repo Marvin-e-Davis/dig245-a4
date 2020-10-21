@@ -68,7 +68,7 @@
 }
 
 @media screen and (max-width: 600px){
-  .regular-text{
+  .reg-min{
     font-size: 3vmax;
   }
 }
