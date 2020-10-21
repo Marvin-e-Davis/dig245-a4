@@ -23,6 +23,11 @@
   background-color: #ffc8c8;
 }
 
+.img{
+  height: 50%;
+  width: 50%;
+}
+
 .main-title {
   padding-top: 20%;
 }
