@@ -63,13 +63,13 @@
 
 .regular-text {
   font-family: 'Open Sans', sans-serif;
-  font-size: 1.4vw;
+  font-size: 1.5vmax;
   margin-left: 5%;
 }
 
 .regular-text-bold {
   font-family: 'Open Sans', sans-serif;
-  font-size: 1.5vw;
+  font-size: 2vmax;
   font-weight: 1000;
 }
 
