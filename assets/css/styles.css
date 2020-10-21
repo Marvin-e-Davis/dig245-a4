@@ -1,47 +1,44 @@
 /* css */
-.container{
-}
+.container {}
 
-.body{
+.body {}
 
-}
-
-.centered-text{
+.centered-text {
   text-align: center;
 }
 
-.main-background{
+.main-background {
   background-color: #afd3fc;
 }
 
-.white-background{
+.white-background {
   background-color: #ffffff;
 }
 
-.header-border{
+.header-border {
   border: 1px solid black;
 }
 
-.pink-background{
+.pink-background {
   background-color: #ffc8c8;
 }
 
-.main-title{
+.main-title {
   padding-top: 20%;
 }
 
-.main-header-font{
+.main-header-font {
   font-family: 'Anton', sans-serif;
   font-size: 4vw;
   margin-bottom: 4%;
 }
 
-.main-conclusion-header-font{
+.main-conclusion-header-font {
   font-family: 'Anton', sans-serif;
   font-size: 3vw;
 }
 
-.sub-header-font{
+.sub-header-font {
   font-family: 'Libre Baskerville', serif;
   font-size: 1.5vw;
   margin-bottom: 5%;
@@ -49,35 +46,35 @@
   padding-bottom: 2%;
 }
 
-.text-overview-font{
+.text-overview-font {
   font-family: 'Anton', sans-serif;
   font-size: 2vw;
 }
 
-.data-header-text{
+.data-header-text {
   font-family: 'Anton', sans-serif;
   font-size: 2vw;
 }
 
-.regular-text{
+.regular-text {
   font-family: 'Open Sans', sans-serif;
   font-size: 1.2vw;
 }
 
-.regular-text-bold{
+.regular-text-bold {
   font-family: 'Open Sans', sans-serif;
   font-size: 1.35vw;
   font-weight: 1000;
 }
 
-.text-overview{
+.text-overview {
   margin-left: 7%;
   margin-right: 7%;
   padding: 3%;
   margin-bottom: 5%;
 }
 
-.data-bar{
+.data-bar {
   margin-left: 7%;
   margin-right: 7%;
   padding: 2%;
@@ -85,18 +82,18 @@
   border: 1px solid black;
 }
 
-.tasks-bar{
+.tasks-bar {
   margin-right: 10%;
 }
 
-.conclusion-bar{
+.conclusion-bar {
   margin-left: 7%;
   margin-right: 7%;
   margin-top: 5%;
   padding: 2%;
 }
 
-.conclusion-text-bar{
+.conclusion-text-bar {
   margin-left: 7%;
   margin-right: 7%;
 }
