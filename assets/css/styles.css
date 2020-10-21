@@ -36,6 +36,14 @@
   margin-bottom: 4%;
 }
 
+.sub-header-font{
+  font-family: 'Libre Baskerville', serif;
+  font-size: 1.5vw;
+  margin-bottom: 5%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
 .text-overview-font{
   font-family: 'Anton', sans-serif;
   font-size: 2vw;
@@ -46,18 +54,17 @@
   font-size: 2vw;
 }
 
-.sub-header-font{
-  font-family: 'Libre Baskerville', serif;
-  font-size: 1.5vw;
-  margin-bottom: 5%;
-  padding-top: 2%;
-  padding-bottom: 2%;
-}
-
 .regular-text{
   font-family: 'Open Sans', sans-serif;
   font-size: 1.2vw;
 }
+
+.regular-text-bold{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.2vw;
+  font-weight: 700;
+}
+
 .text-overview{
   margin-left: 7%;
   margin-right: 7%;
