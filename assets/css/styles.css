@@ -82,8 +82,8 @@
   border: 1px solid black;
 }
 
-.tasks-bar {
-  margin-right: 10%;
+.task-bar {
+  width: 10%;
 }
 
 .conclusion-bar {
