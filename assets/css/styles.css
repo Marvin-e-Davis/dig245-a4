@@ -1,4 +1,8 @@
 /* css */
+.container-fluid{
+  padding: 0;
+}
+
 .main-background {
   background-color: #afd3fc;
 }
@@ -10,8 +14,6 @@
   font-size: 4vw;
   text-align: center;
   margin-bottom: 4%;
-  margin-left: 0;
-  margin-right: 0; 
   padding-top: 5vw;
   padding-bottom: 1vw;
 }
