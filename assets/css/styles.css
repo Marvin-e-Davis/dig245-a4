@@ -7,6 +7,10 @@
   background-color: #afd3fc;
 }
 
+.sub-background{
+  background-color: #ffc8c8;
+}
+
 .main-title{
   background-color: #ffffff;
   border: .1vw solid black;
@@ -15,4 +19,12 @@
   text-align: center;
   padding-top: 13vw;
   padding-bottom: 2vw;
+}
+
+.sub-title{
+  background-color: #ffc8c8;
+  padding: 2vw;
+  font-family: 'Libre Baskerville', serif;
+  font-size: 1.5vw;
+  margin-bottom: 5%;
 }
