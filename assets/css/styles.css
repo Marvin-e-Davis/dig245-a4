@@ -74,14 +74,9 @@
   }
 
   .phone-margins{
-    margin-bottom: 100px;
+    margin-bottom: 30vw;
   }
 
-  .phone-time-bar{
-    width: 100px;
-    position: relative;
-    bottom: 20vh;
-  }
 }
 
 .regular-text-bold {
