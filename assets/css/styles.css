@@ -19,6 +19,7 @@
   text-align: center;
   padding-top: 13vw;
   padding-bottom: 2vw;
+  margin-bottom: 0;
 }
 
 .sub-title{
@@ -27,4 +28,6 @@
   font-family: 'Libre Baskerville', serif;
   font-size: 1.5vw;
   margin-bottom: 5%;
+  text-align: center;
+  margin-top: 0;
 }
