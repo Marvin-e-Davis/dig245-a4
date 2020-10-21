@@ -71,7 +71,10 @@
   .taskbar-size{
     height: 30vh;
     width: 30vw;
-    margin-bottom: 100vh;
+  }
+
+  .phone-margins{
+    margin-bottom: 100px;
   }
 }
 
