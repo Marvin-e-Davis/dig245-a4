@@ -50,7 +50,7 @@
 .data-bar{
   margin-left: 7%;
   margin-right: 7%;
-  padding: 3%;
+  padding: 2%;
   margin-bottom: 5%;
   border: 1px solid black;
 }
@@ -59,4 +59,9 @@
   margin-left: 7%;
   margin-right: 7%;
   padding: 2%;
+}
+
+.conclusion-text{
+  margin-left: 7%;
+  margin-right: 7%;
 }
