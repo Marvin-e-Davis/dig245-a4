@@ -3,10 +3,6 @@
 
 .body{}
 
-.centered-text {
-  text-align: center;
-}
-
 .main-background {
   background-color: #afd3fc;
 }
@@ -21,6 +17,10 @@
 
 .pink-background {
   background-color: #ffc8c8;
+}
+
+.center-align {
+  text-align: center;
 }
 
 .img{
