@@ -68,8 +68,9 @@
 }
 
 @media screen and (max-width: 600px){
-  .reg-min-text-tasks{
-    font-size: 3vmax;
+  .taskbar-size{
+    height: 50vmin;
+    width: 50vmin;
   }
 }
 
