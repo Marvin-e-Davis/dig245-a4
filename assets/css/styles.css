@@ -60,6 +60,16 @@
   text-align: center;
 }
 
+@media screen and (max-width: 600px){
+  .img-phone{
+    height: 25vw;
+    width: 35vw;
+    margin-top: 2.5vw;
+    position: relative;
+    right: 5vw;
+  }
+}
+
 img{
   height: 25vw;
   width: 35vw;
