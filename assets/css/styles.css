@@ -11,6 +11,10 @@
   background-color: #ffc8c8;
 }
 
+.white-background{
+    background-color: #ffffff;
+}
+
 .main-title{
   background-color: #ffffff;
   border: .1vw solid black;
