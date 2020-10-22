@@ -38,3 +38,10 @@
     font-size: 2vw;
   }
 }
+
+.overview-title{
+  font-size: 1.5vw;
+  text-align: center;
+  font-size: 'Anton', sans-serif;
+  background-color: #ffc8c8;
+}
