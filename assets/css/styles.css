@@ -40,8 +40,8 @@
 }
 
 .overview-title{
-  font-size: 1.5vw;
+  font-size: 3vw;
   text-align: center;
-  font-size: 'Anton', sans-serif;
+  font-family: 'Anton', sans-serif;
   background-color: #ffc8c8;
 }
