@@ -93,6 +93,6 @@ img{
 
 .task-bar{
   margin-top: 2vw;
-  height: 20vw;
-  width: 20vw;
+  height: 100%;
+  width: 100%;
 }
