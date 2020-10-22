@@ -46,3 +46,7 @@
   background-color: #ffc8c8;
   padding: 2vw;
 }
+
+.overview-title p{
+  text-align: center;
+}
