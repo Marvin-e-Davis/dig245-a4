@@ -90,3 +90,9 @@ img{
   margin-top: 8vw;
   padding: 1.5vw;
 }
+
+.task-bar{
+  margin-top: 2vw;
+  height: 20vw;
+  width: 20vw;
+}
