@@ -67,3 +67,11 @@ img{
   position: relative;
   right: 5vw;
 }
+
+.test-data{
+  background-color: #ffffff;
+  font-family: 'Anton', sans-serif;
+  font-size: 4vw;
+  text-align: center;
+  padding: 2vw;
+}
