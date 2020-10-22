@@ -13,7 +13,6 @@
 
 .white-background{
     background-color: #ffffff;
-    width: 10vw;
 }
 
 .main-title{
@@ -93,7 +92,5 @@ img{
 }
 
 .task-bar{
-  margin-top: 10vw;
-  height: 100%;
-  width: 100%;
+  padding: 2%;
 }
