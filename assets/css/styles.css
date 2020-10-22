@@ -47,6 +47,7 @@
   padding: 2vw;
 }
 
-.overview-title p{
-  text-align: right;
+.overview-text{
+  font-size: 40%;
+  font-family: 'Open Sans', sans-serif;
 }
