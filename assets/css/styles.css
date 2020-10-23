@@ -121,7 +121,7 @@ img{
   padding: 1vw;
 }
 
-@media screen and (min-width: 800px){
+@media screen and (min-width: 500px){
   .time{
     margin-bottom: 4vw;
   }
