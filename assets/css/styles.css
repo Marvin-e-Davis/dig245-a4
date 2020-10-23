@@ -138,4 +138,8 @@ img{
   .time{
     margin-right: 35%;
   }
+
+  .standard-text{
+    font-size: 2vw;
+  }
 }
