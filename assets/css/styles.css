@@ -120,3 +120,9 @@ img{
   margin-right: 55%;
   padding: 1vw;
 }
+
+@media (min-width: @screen-md-min){
+  .time{
+    font-size: 500px;
+  }
+}
