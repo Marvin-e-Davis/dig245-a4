@@ -123,6 +123,6 @@ img{
 
 @media screen and (min-width: 800px){
   .time{
-    
+    margin-bottom: 2vw;
   }
 }
