@@ -121,7 +121,7 @@ img{
   padding: 1vw;
 }
 
-@media (min-width: @screen-md-min){
+@media screen and (min-width: 800px){
   .time{
     font-size: 500px;
   }
