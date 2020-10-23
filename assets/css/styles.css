@@ -15,6 +15,11 @@
     background-color: #ffffff;
 }
 
+.white-background-taskbar{
+    background-color: #ffffff;
+    padding: 1vw;
+}
+
 .main-title{
   background-color: #ffffff;
   border: .1vw solid black;
